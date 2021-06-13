@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 12px;
+  text-decoration: none;
+}
+
+table, th , td {
+  text-align: center;
+  background-color= #d1d0bb;
+  border-spacing: 5px;
+  border: 1px solid black
+}
+
+center, p, b {
+   font-family: century gothic;
+   font-text: 20px;
+   color: #922b21;
+}
